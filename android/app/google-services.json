@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942268790773",
+    "project_id": "hindujhatka-ffcc1",
+    "storage_bucket": "hindujhatka-ffcc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942268790773:android:da52d8da49fe93724b92bc",
+        "android_client_info": {
+          "package_name": "com.example.hindu_jhatka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqytAXUakTOWkFaiiZ6fo5CfSJl7TQihE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
